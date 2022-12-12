@@ -1,6 +1,17 @@
 
 <div align='center'><font size='6px'><b>Privacy Policy</b></font></div>
-[toc]
+
+- [Information Collection and Use](#information-collection-and-use)
+- [Cookies and Similar Technologies](#cookies-and-similar-technologies)
+- [Information Share](#information-share)
+- [Data Retention](#data-retention)
+- [Data Security](#data-security)
+- [Links to Other Sites](#links-to-other-sites)
+- [The Protection of Minors](#the-protection-of-minors)
+- [Your Rights and Choices](#your-rights-and-choices)
+- [Update of the Policy](#update-of-the-policy)
+- [Contact Us](#contact-us)
+
 Thank you for using PLANET TWELVE PRIVATE LIMITED (hereinafter referred to as "us", "our", or "we") products and services! We respect privacy rights of the users who use Project Twelve application provided through mobile devices, PC, official website and other authorized platform, and/or otherwise using or accessing any of the services we provide including but not limited to customer service, marketing, advertising and community services ("our service").
 
 This Privacy Policy explains why and how we collect, restore, and process your personal information and which rights you have over your personal information. If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. If you do not agree with our policies and practices, do not download, register with, or use our products or service. 
